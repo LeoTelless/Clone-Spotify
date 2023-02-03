@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 
 # Clone - Tela inicial Spotify
 
