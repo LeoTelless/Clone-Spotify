@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 
 =======
+
 # Clone - Tela inicial Spotify
 
 ![preview](./img/leotelless.github.io_Clone-Spotify_.png)
@@ -18,4 +19,3 @@ Um projeto com fins acadêmicos para colocar em prática meus conhecimentos.
 ## 💚 Contato
 
 leotelles01@gmail.com
->>>>>>> ad9f523 (second commit)
